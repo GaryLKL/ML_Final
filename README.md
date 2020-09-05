@@ -4,8 +4,6 @@
 
 Online reviews provide customers and business owners a good evaluation metric for the target products or services. Therefore, knowing the authenticity of reviews is essential, because they may affect how we make a decision. In this work, we tackled the fake review detection problem by designing new features, re-sampling training data and ensembling different machine learning models. Our best performance XGBoost model achieved 0.404 Average Precision and 0.862 AUC score on test data.
 
-{% include gallery caption="" %}
-
 ## Feature Engineering
 
 #### 1. Linguistic Features
